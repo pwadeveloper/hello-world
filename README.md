@@ -1,2 +1,4 @@
 # hello-world
 A simple hello world git project
+
+Hi, I am Mudia Imasuen a Quantitative User Experice Researcher and a Product Designer. Food lover and really playful.
